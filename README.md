@@ -1,5 +1,7 @@
 # LGD Guardrails
 
+![LGD score](badge.svg "LGD machine-readability score")
+
 ## One file. Zero dependencies. Stop AI from lying, slacking, and overreaching.
 
 **一个文件、零依赖，让 AI 不再说谎、偷懒、越权。**
