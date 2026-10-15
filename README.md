@@ -1,3 +1,5 @@
+
+[![LGD 95/100 four-angle](docs/lgd-combo.svg)](https://github.com/zhaoxinghua09-cell/lgd-guardrails)
 # LGD Guardrails
 
 ![LGD score](badge.svg "LGD machine-readability score")
