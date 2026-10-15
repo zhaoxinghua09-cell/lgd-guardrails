@@ -52,3 +52,6 @@ Output quality: simple first, one job per unit, assert the critical path, leave 
 - skill-scorecard: https://github.com/zhaoxinghua09-cell/skill-scorecard
 - ORCID: https://orcid.org/0009-0001-0512-1237
 - Software Heritage: https://archive.softwareheritage.org/browse/origin/?origin_url=https%3A%2F%2Fgithub.com%2Fzhaoxinghua09-cell%2Flgd-guardrails
+
+## Skill Marketplace
+- lgd-skill-marketplace: https://github.com/zhaoxinghua09-cell/lgd-skill-marketplace — full skill catalog (enter from any skill).
