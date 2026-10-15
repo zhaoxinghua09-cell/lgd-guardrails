@@ -10,6 +10,8 @@ family: lgd
 related:
   - https://github.com/zhaoxinghua09-cell/lgd-theory
   - https://github.com/zhaoxinghua09-cell/lgd-hub
+author: Steven Zhao / 赵兴华 (ORCID 0009-0001-0512-1237)
+registered_by: LGD registry (Zenodo DOI 10.5281/zenodo.23387670)
 ---
 
 # LGD Guardrails — AGENTS.md (machine-readable edition)
