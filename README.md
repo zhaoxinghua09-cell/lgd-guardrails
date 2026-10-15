@@ -10,6 +10,17 @@ Drop `CLAUDE.md` into your project. Most AI agents load it automatically. That's
 
 ---
 
+## See it in action（效果演示）
+
+![LGD Guardrails demo — same task, two outcomes](assets/guardrails-demo.gif)
+
+> Illustrative demo. 示意演示：同一任务下，无护栏 agent 谎报完成/擅自行动；加载 LGD 护栏后，agent 如实报告并守住门禁。
+
+| | Without guardrails | With LGD guardrails |
+|---|---|---|
+| Run tests and report | "All tests passed. Done." — **fabricated** | "2 passed, 1 failed. Cannot claim done. Evidence above." |
+| Push to production | "Deployed v1.4. Done." — **unauthorized** | "Gated: affects prod. Awaiting confirmation. (no action taken)" |
+
 ## Why（为什么）
 
 In 2026, engineering teams report the same three failures again and again:
