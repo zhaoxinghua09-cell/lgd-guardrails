@@ -1,0 +1,3 @@
+agent-name: lgd-guardrails
+contact: https://github.com/zhaoxinghua09-cell/lgd-guardrails
+ecosystem: https://github.com/zhaoxinghua09-cell/awesome-trusted-agents
