@@ -1,6 +1,7 @@
 
 [![LGD 95/100](docs/lgd-main.svg)](https://github.com/zhaoxinghua09-cell/lgd-guardrails) [![四角度](docs/lgd-angles.svg)](https://github.com/zhaoxinghua09-cell/lgd-guardrails)
 
+
 # LGD Guardrails
 
 ![LGD score](badge.svg "LGD machine-readability score")
