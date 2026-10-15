@@ -92,3 +92,9 @@ Apache-2.0（本文件与全部代码）；理论文本按其署名声明。
 - [skill-scorecard](https://github.com/zhaoxinghua09-cell/skill-scorecard) — 四角度评分引擎（Four-angle scoring engine）
 - [lgd-hub](https://github.com/zhaoxinghua09-cell/lgd-hub) — LGD 理论资产统一入口（Unified entry to LGD assets）
 - [theoriturgy](https://github.com/zhaoxinghua09-cell/theoriturgy) — LGD 三律理论本体（Core doctrine）
+
+## Identity & Archive / 身份与存档
+- **Author ORCID**: [0009-0001-0512-1237](https://orcid.org/0009-0001-0512-1237) — Steven Zhao (SynomosAI initiative)
+- **Zenodo archive**: [v1.0 record](https://zenodo.org/records/23385209) (DOI: 10.5281/zenodo.23385209)
+- **Software Heritage** (permanent): [browse origin](https://archive.softwareheritage.org/browse/origin/?origin_url=https%3A%2F%2Fgithub.com%2Fzhaoxinghua09-cell%2Flgd-guardrails)
+- **Standards engagement**: [ITU-T FG-TIDA](https://github.com/FG-TIDA) — international forum participation (theoretical contribution)
